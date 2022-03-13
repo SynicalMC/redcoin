@@ -1,0 +1,19 @@
+{
+  "name": "redcoin",
+  "version": "1.0.0",
+  "description": "A cryptocurrency for ComputerCraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SynicalMC/redcoin.git"
+  },
+  "author": "Synical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SynicalMC/redcoin/issues"
+  },
+  "homepage": "https://github.com/SynicalMC/redcoin#readme"
+}
