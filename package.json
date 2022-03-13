@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SynicalMC/redcoin/issues"
   },
-  "homepage": "https://github.com/SynicalMC/redcoin#readme"
+  "homepage": "https://github.com/SynicalMC/redcoin#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
